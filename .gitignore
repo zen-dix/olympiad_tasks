@@ -1,4 +1,13 @@
-venv/
+# Python
 __pycache__/
-*.out
-*.exe
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# PyCharm / IDE
+.idea/
+.vscode/
